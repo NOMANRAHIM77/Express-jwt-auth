@@ -9,13 +9,12 @@ A clean and modular backend starter for handling user registration and authentic
 * **Database Integration**: Connects seamlessly with MongoDB Atlas or local MongoDB using Mongoose.
 * **Clean Architecture**: Separated concerns using Controllers, Models, and Routes.
 
----
-
+-PNG
 ### API Testing (Postman)
-![Postman Request](./images/postman.png)
+![Postman Request](./images/postman.PNG)
 
 ### Database View (MongoDB)
-![MongoDB Collection](./images/mongodb.png)
+![MongoDB Collection](./images/mongodb.PNG)
 
 
 ## 🛠️ Tech Stack
