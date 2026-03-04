@@ -13,6 +13,9 @@ A clean and modular backend starter for handling user registration and authentic
 ### API Testing (Postman)
 ![Postman Request](./images/postman.PNG)
 
+### API Testing (Postman)
+![Cookies](./images/cookies.PNG)
+
 ### Database View (MongoDB)
 ![MongoDB Collection](./images/mongodb.PNG)
 
